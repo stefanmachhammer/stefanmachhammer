@@ -30,16 +30,10 @@ I'm a software developer based in Austria. I care about clean code, fast softwar
 
 ### Tech I reach for
 
-`TypeScript` · `Python` · `C++` · `Node.js` · `Astro` · `SQLite` · `Tailwind CSS` · `Git`
+`TypeScript` · `Python` · `C++` · `Node.js` · `Astro` · `SQLite`
 
 ### Get in touch
 
 - 🌐 Site &nbsp;— [stefanmachhammer.dev](https://stefanmachhammer.dev)
 - 🐦 X &nbsp;&nbsp;&nbsp;&nbsp;— [@machhammerdev](https://twitter.com/machhammerdev)
 - 💼 Open to interesting projects and collaborations.
-
-<br />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stefanmachhammer&show_icons=true&hide_border=true&hide_title=true&hide=issues&theme=transparent" alt="GitHub stats" />
-</p>
