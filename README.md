@@ -11,6 +11,9 @@
   <a href="https://twitter.com/machhammerdev">
     <img src="https://img.shields.io/badge/X-@machhammerdev-0a0a0a?style=flat-square&logo=x&logoColor=white" alt="X / Twitter" />
   </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Open_to_work-22c55e?style=flat-square" alt="Open to work" />
 </p>
 
@@ -27,7 +30,7 @@ I'm a software developer based in Austria. I care about clean code, fast softwar
 
 ### Tech I reach for
 
-`TypeScript` · `Node.js` · `Astro` · `SQLite` · `Tailwind CSS` · `Git`
+`TypeScript` · `Python` · `C++` · `Node.js` · `Astro` · `SQLite` · `Tailwind CSS` · `Git`
 
 ### Get in touch
 
