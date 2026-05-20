@@ -30,7 +30,23 @@ I'm a software developer based in Austria. I care about clean code, fast softwar
 
 ### Tech I reach for
 
-`TypeScript` · `Python` · `C++` · `Node.js` · `Astro` · `SQLite`
+**Languages**
+`TypeScript` · `Python`
+
+**Frontend / UI**
+`Astro` · `React` · `Vue` · `Next.js` · `Angular` · `Lit` · `Sass`
+
+**Backend / Runtimes**
+`Node.js` · `Elixir` · `Ruby` · `Java` · `Kotlin` · `C#` · `.NET` · `PHP` · `Laravel` · `Django` · `Flask` · `NestJS` · `GraphQL` · `WebSockets`
+
+**Databases**
+`PostgreSQL` · `MySQL` · `MariaDB` · `SQLite` · `Redis` · `MongoDB` · `Drizzle ORM`
+
+**Infra / DevOps**
+`Docker` · `Kubernetes` · `Linux` · `Nginx` · `Cloudflare` · `Cloudflare Workers` · `AWS`
+
+**Systems / Low-level**
+`C` · `C++` · `Rust` · `CMake` · `Qt` · `OpenGL` · `Vulkan` · `DirectX` · `CUDA` · `OpenCL` · `Raspberry Pi`
 
 ### Get in touch
 
