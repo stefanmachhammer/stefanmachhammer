@@ -30,20 +30,23 @@ I'm a software developer based in Austria. I care about clean code, fast softwar
 
 ### Tech I reach for
 
-Frontend / UI  
-React · Vue · Next.js · Angular · Lit · Sass
+**Languages**  
+`JavaScript` · `TypeScript` · `C++` · `Python` · `Java` · `PHP`
 
-Backend / Runtimes  
-Rust · Elixir · Ruby · Java · Kotlin · C# · .NET · PHP · Laravel · Django · Flask · NestJS · GraphQL · WebSockets
+**Frontend / UI**  
+`React` · `Vue` · `Next.js` · `Angular` · `Lit` · `Sass`
 
-Databases  
-PostgreSQL · MySQL · MariaDB · Redis · MongoDB · Drizzle ORM
+**Backend / Runtimes**  
+`Rust` · `Elixir` · `Ruby` · `Java` · `Kotlin` · `C#` · `.NET` · `PHP` · `Laravel` · `Django` · `Flask` · `NestJS` · `GraphQL` · `WebSockets`
 
-Infra / DevOps  
-Docker · Kubernetes · Linux · Nginx · Cloudflare · Cloudflare Workers · AWS
+**Databases**  
+`PostgreSQL` · `MySQL` · `MariaDB` · `Redis` · `MongoDB` · `Drizzle ORM`
 
-Systems / Low-level  
-C · C++ · Rust · CMake · Qt · OpenGL · Vulkan · DirectX · CUDA · OpenCL · Raspberry Pi
+**Infra / DevOps**  
+`Docker` · `Kubernetes` · `Linux` · `Nginx` · `Cloudflare` · `Cloudflare Workers` · `AWS`
+
+**Systems / Low-level**  
+`C` · `C++` · `Rust` · `CMake` · `Qt` · `OpenGL` · `Vulkan` · `DirectX` · `CUDA` · `OpenCL` · `Raspberry Pi`
 
 ### Get in touch
 
