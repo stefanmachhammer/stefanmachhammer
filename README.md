@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Stefan 👋</h1>
 
 <p align="center">
-  Developer from Austria, building tools that respect the people who use them.
+  Developer from Austria, building useful things on the open web.
 </p>
 
 <p align="center">
