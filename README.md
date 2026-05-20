@@ -34,7 +34,7 @@ I'm a software developer based in Austria. I care about clean code, fast softwar
 `JavaScript` · `TypeScript` · `C++` · `Python` · `Java` · `PHP`
 
 **Frontend / UI**  
-`React` · `Vue` · `Next.js` · `Angular` · `Lit` · `Sass`
+`Astro` · `React` · `Vue` · `Next.js` · `Angular` · `Lit` · `Sass`
 
 **Backend / Runtimes**  
 `Rust` · `Elixir` · `Ruby` · `Java` · `Kotlin` · `C#` · `.NET` · `PHP` · `Laravel` · `Django` · `Flask` · `NestJS` · `GraphQL` · `WebSockets`
